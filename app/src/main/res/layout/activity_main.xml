@@ -16,7 +16,6 @@
         android:gravity="center"
         android:text="@string/choose_lower_fragment_color"
         android:textSize="20sp"
-        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_weight="1" />
 
     <androidx.fragment.app.FragmentContainerView

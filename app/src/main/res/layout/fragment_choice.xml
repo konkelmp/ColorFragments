@@ -16,7 +16,8 @@
             android:id="@+id/redText"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RED FRAGMENT"
+            android:text="@string/red_fragment"
+            android:textSize="20sp"
             android:background="#FFFF9696"/>
 
         <TextView
@@ -24,7 +25,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="BLUE FRAGMENT"
+            android:text="@string/blue_fragment"
+            android:textSize="20sp"
             android:background="#FF9696FF"/>
 
     </LinearLayout>
